@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ConverterApplication</string>
+    <string-array name="number_systems">
+        <item>Decimal</item>
+        <item>Binary</item>
+        <item>Octal</item>
+        <item>HexaDecimal</item>
+    </string-array>
+
+
+</resources>
